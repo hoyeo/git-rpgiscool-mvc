@@ -1,0 +1,11 @@
+      *    =================================================================
+      *    = DISPLAY FILE... STATESRV1D                                    =
+      *    = DESCRIPTION.... GET STATE ABBREVIATION                        =
+      *    =================================================================
+      *
+     A          R DSP01                     CA03
+     A                                  1  2'CITY LIST'
+     A                                  3  2'STATE...'
+     A                                 23  2'F3=EXIT'
+     A            STATEABBR      2   B  3 11
+     A            ERRORMSG      79   O 24  2

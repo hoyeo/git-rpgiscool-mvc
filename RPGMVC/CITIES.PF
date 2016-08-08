@@ -1,0 +1,10 @@
+      *    =================================================================
+      *    = Physical file... Cities                                       =
+      *    = Description..... Sample cities file                           =
+      *    =================================================================
+ 
+     A          R CITIESR
+     A            STATEABBR      2
+     A            CITYNAME      20
+     A          K STATEABBR
+     A          K CITYNAME

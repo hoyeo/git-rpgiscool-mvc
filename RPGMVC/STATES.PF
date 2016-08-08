@@ -1,0 +1,9 @@
+      *    =================================================================
+      *    = Physical file... States                                       =
+      *    = Description..... Sample states file                           =
+      *    =================================================================
+ 
+     A          R STATESR
+     A            STATEABBR      2
+     A            STATENAME     20
+     A          K STATEABBR
